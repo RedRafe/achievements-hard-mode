@@ -16,7 +16,7 @@ Here's a table of the achievements were changed:
 |![ac](https://wiki.factorio.com/images/thumb/Automated-construction-achievement.png/80px-Automated-construction-achievement.png)| Automated construction | Construct 100 objects by bots | Construct 10'000 objects by bots |
 |![acu](https://wiki.factorio.com/images/thumb/Automated-cleanup-achievement.png/80px-Automated-cleanup-achievement.png)| Automated cleanup | Deconstruct 100 objects by bots | Deconstruct 10k objects by bots |
 |![ygap](https://wiki.factorio.com/images/thumb/You-have-got-a-package-achievement.png/80px-You-have-got-a-package-achievement.png)| You've got a package | Supply the player 1 item | Supply the player 100k items |
-|![ds](https://wiki.factorio.com/images/thumb/Delivery-service-achievement.png/80px-Delivery-service-achievement.png)| Delivery service | Supply the player 10k items | Supplu the player 10M items|
+|![ds](https://wiki.factorio.com/images/thumb/Delivery-service-achievement.png/80px-Delivery-service-achievement.png)| Delivery service | Supply the player 10k items | Supply the player 10M items|
 |![tfe](https://wiki.factorio.com/images/thumb/Trans-factorio-express-achievement.png/80px-Trans-factorio-express-achievement.png)| Trans-Factorio express | Have a train path 1k tiles | Have a train path 142k tiles 1️⃣ |
 |![g](https://wiki.factorio.com/images/thumb/Golem-achievement.png/80px-Golem-achievement.png)| Golem | Survive a hit of 500+ damage | Survive a hit of 3500+ damage |
 |![mp1](https://wiki.factorio.com/images/thumb/Mass-production-1-achievement.png/80px-Mass-production-1-achievement.png)| Mass production 1 | Produce 10k electronic circuits | Produce 10k electronic circuits |
