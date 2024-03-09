@@ -21,7 +21,7 @@ Here's a table of the achievements were changed:
 |![g](https://wiki.factorio.com/images/thumb/Golem-achievement.png/80px-Golem-achievement.png)| Golem | Survive a hit of 500+ damage | Survive a hit of 3500+ damage |
 |![mp1](https://wiki.factorio.com/images/thumb/Mass-production-1-achievement.png/80px-Mass-production-1-achievement.png)| Mass production 1 | Produce 10k electronic circuits | Produce 10k electronic circuits |
 |![mp2](https://wiki.factorio.com/images/thumb/Mass-production-2-achievement.png/80px-Mass-production-2-achievement.png)| Mass production 2 | Produce 1M electronic circuits | Produce 1M electronic circuits |
-|![mp3](https://wiki.factorio.com/images/thumb/Mass-production-3-achievement.png/80px-Mass-production-3-achievement.png)| Mass production 3 | Produce 20G electronic circuits | Produce 20B electronic circuits 2️⃣ |
+|![mp3](https://wiki.factorio.com/images/thumb/Mass-production-3-achievement.png/80px-Mass-production-3-achievement.png)| Mass production 3 | Produce 20M electronic circuits | Produce 20M electronic circuits 2️⃣ |
 |![cv1](https://wiki.factorio.com/images/thumb/Circuit-veteran-1-achievement.png/80px-Circuit-veteran-1-achievement.png)| Circuit veteran 1 | Produce 1k/hr advanced circuits | Produce 10k/hr advanced circuits |
 |![cv2](https://wiki.factorio.com/images/thumb/Circuit-veteran-2-achievement.png/80px-Circuit-veteran-2-achievement.png)| Circuit veteran 2 | Produce 10k/hr advanced circuits | Produce 100k/hr advanced circuits |
 |![cv3](https://wiki.factorio.com/images/thumb/Circuit-veteran-3-achievement.png/80px-Circuit-veteran-3-achievement.png)| Circuit veteran 3 | Produce 25k/hr advanced circuits | Produce 575k/hr advanced circuits |
@@ -40,7 +40,7 @@ Here's a table of the achievements were changed:
 |![rb](https://wiki.factorio.com/images/thumb/Raining-bullets-achievement.png/80px-Raining-bullets-achievement.png)| Raining bullets | Win the game without building any laser turrets | Win the game without building any laser turrets or flamethrower turret |
 
 - 1️⃣ 142.000 tiles is about the length of the Route 66
-- 2️⃣ it is possible to change this requirement in the mod's setting [10^6, 10^18]
+- 2️⃣ Although not different from vanilla, it is possible to change this requirement in the mod's setting [10^6, 10^18]
 
 ---
 
