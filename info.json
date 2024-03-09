@@ -1,0 +1,13 @@
+{
+  "name": "achievements-hard-mode",
+  "version": "0.1.0",
+  "title": "Achievements: Hard Mode",
+  "author": "RedRafe",
+  "source": "https://github.com/RedRafe/achievements-hard-mode",
+  "homepage": "https://mods.factorio.com/user/RedRafe",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1.0"
+  ],
+  "description": "Makes Factorio Achievements harder to get. Full details on the mod's page"
+}
